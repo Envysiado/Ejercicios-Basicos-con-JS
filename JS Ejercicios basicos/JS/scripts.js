@@ -107,9 +107,9 @@ function eliminarContenido() {
 
 // Array de direcciones de imágenes
 var direccionesImagenes = [
-  '../img/cazador.jpg',
-  '../img/Exile-Armor-Titan-Destiny-2.jpg',
-  '../img/hechicero.png'
+  '../JS Ejercicios basicos/img/cazador.jpg',
+  '../JS Ejercicios basicos/img/Exile-Armor-Titan-Destiny-2.jpg',
+  '../JS Ejercicios basicos/img/hechicero.png'
 ];
 
 
